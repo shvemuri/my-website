@@ -1,0 +1,19 @@
+{
+  stream: [
+    {
+      id: 1,
+      name: 'Me',
+      about: 'Hello World'
+    },
+    {
+      id: 2,
+      name: 'Me',
+      about: 'Hello World'
+    },
+    {
+      id: 3,
+      name: 'Me',
+      about: 'Hello World'
+    },
+  ]
+}
